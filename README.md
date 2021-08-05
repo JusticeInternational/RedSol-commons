@@ -25,4 +25,6 @@ Notes:
 - SwiftUI light gray is used
 - Pure Black was used in prototype
 
+## Font
 
+Poppins --> download: https://fonts.google.com/share?selection.family=Poppins
